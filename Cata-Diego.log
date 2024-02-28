@@ -1,0 +1,176 @@
+[2024-02-27 21:49:30] [ INFO ] [OdontologosTest:16] Inicializando el caso de prueba
+[2024-02-27 21:49:30] [ INFO ] [OdontologosTest:21] Prueba H2
+[2024-02-27 21:49:30] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 21:49:31] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 1234
+[2024-02-27 21:49:31] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 21:49:31] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 3456
+[2024-02-27 21:49:31] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 21:49:31] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 6789
+[2024-02-27 21:49:31] [ INFO ] [OdontologoIDAOH2:50] Listando todos los odontólogos desde H2
+[2024-02-27 21:49:31] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Catalina Tempra
+[2024-02-27 21:49:31] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Diego Gimenez
+[2024-02-27 21:49:31] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Vanina Godoy
+[2024-02-27 21:49:31] [ INFO ] [OdontologoIDAOH2:80] Lista de odontólogos[Odontologo{numeroMatricula=1234, nombre='Catalina', apellido='Tempra'}, Odontologo{numeroMatricula=3456, nombre='Diego', apellido='Gimenez'}, Odontologo{numeroMatricula=6789, nombre='Vanina', apellido='Godoy'}]
+[2024-02-27 21:52:34] [ INFO ] [OdontologosTest:18] Inicializando el caso de prueba
+[2024-02-27 21:52:34] [ INFO ] [OdontologosTest:23] Prueba H2
+[2024-02-27 21:52:34] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 21:52:35] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 1234
+[2024-02-27 21:52:35] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 21:52:35] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 3456
+[2024-02-27 21:52:35] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 21:52:35] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 6789
+[2024-02-27 21:52:35] [ INFO ] [OdontologoIDAOH2:50] Listando todos los odontólogos desde H2
+[2024-02-27 21:52:35] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Catalina Tempra
+[2024-02-27 21:52:35] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Diego Gimenez
+[2024-02-27 21:52:35] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Vanina Godoy
+[2024-02-27 21:52:35] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Catalina Tempra
+[2024-02-27 21:52:35] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Diego Gimenez
+[2024-02-27 21:52:35] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Vanina Godoy
+[2024-02-27 21:52:35] [ INFO ] [OdontologoIDAOH2:80] Lista de odontólogos[Odontologo{numeroMatricula=1234, nombre='Catalina', apellido='Tempra'}, Odontologo{numeroMatricula=3456, nombre='Diego', apellido='Gimenez'}, Odontologo{numeroMatricula=6789, nombre='Vanina', apellido='Godoy'}, Odontologo{numeroMatricula=1234, nombre='Catalina', apellido='Tempra'}, Odontologo{numeroMatricula=3456, nombre='Diego', apellido='Gimenez'}, Odontologo{numeroMatricula=6789, nombre='Vanina', apellido='Godoy'}]
+[2024-02-27 21:54:22] [ INFO ] [OdontologosTest:18] Inicializando el caso de prueba
+[2024-02-27 21:54:22] [ INFO ] [OdontologosTest:23] Prueba H2
+[2024-02-27 21:54:22] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 21:54:23] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 1234
+[2024-02-27 21:54:23] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 21:54:23] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 3456
+[2024-02-27 21:54:23] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 21:54:23] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 6789
+[2024-02-27 21:54:23] [ INFO ] [OdontologoIDAOH2:50] Listando todos los odontólogos desde H2
+[2024-02-27 21:54:23] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Catalina Tempra
+[2024-02-27 21:54:23] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Diego Gimenez
+[2024-02-27 21:54:23] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Vanina Godoy
+[2024-02-27 21:54:23] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Catalina Tempra
+[2024-02-27 21:54:23] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Diego Gimenez
+[2024-02-27 21:54:23] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Vanina Godoy
+[2024-02-27 21:54:23] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Catalina Tempra
+[2024-02-27 21:54:23] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Diego Gimenez
+[2024-02-27 21:54:23] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Vanina Godoy
+[2024-02-27 21:54:24] [ INFO ] [OdontologoIDAOH2:80] Lista de odontólogos[Odontologo{numeroMatricula=1234, nombre='Catalina', apellido='Tempra'}, Odontologo{numeroMatricula=3456, nombre='Diego', apellido='Gimenez'}, Odontologo{numeroMatricula=6789, nombre='Vanina', apellido='Godoy'}, Odontologo{numeroMatricula=1234, nombre='Catalina', apellido='Tempra'}, Odontologo{numeroMatricula=3456, nombre='Diego', apellido='Gimenez'}, Odontologo{numeroMatricula=6789, nombre='Vanina', apellido='Godoy'}, Odontologo{numeroMatricula=1234, nombre='Catalina', apellido='Tempra'}, Odontologo{numeroMatricula=3456, nombre='Diego', apellido='Gimenez'}, Odontologo{numeroMatricula=6789, nombre='Vanina', apellido='Godoy'}]
+[2024-02-27 21:54:50] [ INFO ] [OdontologosTest:20] Inicializando el caso de prueba
+[2024-02-27 21:54:50] [ INFO ] [OdontologosTest:25] Prueba H2
+[2024-02-27 21:54:50] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 21:54:50] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 1234
+[2024-02-27 21:54:50] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 21:54:50] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 3456
+[2024-02-27 21:54:50] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 21:54:51] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 6789
+[2024-02-27 21:54:51] [ INFO ] [OdontologoIDAOH2:50] Listando todos los odontólogos desde H2
+[2024-02-27 21:54:51] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Catalina Tempra
+[2024-02-27 21:54:51] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Diego Gimenez
+[2024-02-27 21:54:51] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Vanina Godoy
+[2024-02-27 21:54:51] [ INFO ] [OdontologoIDAOH2:80] Lista de odontólogos[Odontologo{numeroMatricula=1234, nombre='Catalina', apellido='Tempra'}, Odontologo{numeroMatricula=3456, nombre='Diego', apellido='Gimenez'}, Odontologo{numeroMatricula=6789, nombre='Vanina', apellido='Godoy'}]
+[2024-02-27 21:58:08] [ INFO ] [OdontologosTest:39] Inicializando el caso de prueba Inserción memoria
+[2024-02-27 21:58:08] [ INFO ] [OdontologosTest:44] Prueba Memoria
+[2024-02-27 21:58:08] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 21:58:09] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 1234
+[2024-02-27 21:58:09] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 21:58:09] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 3456
+[2024-02-27 21:58:09] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 21:58:09] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 6789
+[2024-02-27 21:58:09] [ INFO ] [OdontologoIDAOH2:50] Listando todos los odontólogos desde H2
+[2024-02-27 21:58:09] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Catalina Tempra
+[2024-02-27 21:58:09] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Diego Gimenez
+[2024-02-27 21:58:09] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Vanina Godoy
+[2024-02-27 21:58:09] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Catalina Tempra
+[2024-02-27 21:58:09] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Diego Gimenez
+[2024-02-27 21:58:09] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Vanina Godoy
+[2024-02-27 21:58:09] [ INFO ] [OdontologoIDAOH2:80] Lista de odontólogos[Odontologo{numeroMatricula=1234, nombre='Catalina', apellido='Tempra'}, Odontologo{numeroMatricula=3456, nombre='Diego', apellido='Gimenez'}, Odontologo{numeroMatricula=6789, nombre='Vanina', apellido='Godoy'}, Odontologo{numeroMatricula=1234, nombre='Catalina', apellido='Tempra'}, Odontologo{numeroMatricula=3456, nombre='Diego', apellido='Gimenez'}, Odontologo{numeroMatricula=6789, nombre='Vanina', apellido='Godoy'}]
+[2024-02-27 21:58:35] [ INFO ] [OdontologosTest:39] Inicializando el caso de prueba Inserción memoria
+[2024-02-27 21:58:35] [ INFO ] [OdontologosTest:44] Prueba Memoria
+[2024-02-27 21:58:35] [ INFO ] [OdontologoIDAOCollection:16] Estamos guardando un odontólogo en memoria
+[2024-02-27 21:58:35] [ INFO ] [OdontologoIDAOCollection:16] Estamos guardando un odontólogo en memoria
+[2024-02-27 21:58:35] [ INFO ] [OdontologoIDAOCollection:16] Estamos guardando un odontólogo en memoria
+[2024-02-27 21:58:35] [ INFO ] [OdontologoIDAOCollection:23] Listando todos los odontólogos desde memoria
+[2024-02-27 21:58:56] [ INFO ] [OdontologosTest:21] Inicializando el caso de prueba Inserción H2
+[2024-02-27 21:58:56] [ INFO ] [OdontologosTest:26] Prueba H2
+[2024-02-27 21:58:56] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 21:58:56] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 1234
+[2024-02-27 21:58:56] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 21:58:57] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 3456
+[2024-02-27 21:58:57] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 21:58:57] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 6789
+[2024-02-27 21:58:57] [ INFO ] [OdontologoIDAOH2:50] Listando todos los odontólogos desde H2
+[2024-02-27 21:58:57] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Catalina Tempra
+[2024-02-27 21:58:57] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Diego Gimenez
+[2024-02-27 21:58:57] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Vanina Godoy
+[2024-02-27 21:58:57] [ INFO ] [OdontologoIDAOH2:80] Lista de odontólogos[Odontologo{numeroMatricula=1234, nombre='Catalina', apellido='Tempra'}, Odontologo{numeroMatricula=3456, nombre='Diego', apellido='Gimenez'}, Odontologo{numeroMatricula=6789, nombre='Vanina', apellido='Godoy'}]
+[2024-02-27 22:22:44] [ INFO ] [OdontologosTest:21] Inicializando el caso de prueba Inserción H2
+[2024-02-27 22:22:44] [ INFO ] [OdontologosTest:26] Prueba H2
+[2024-02-27 22:22:44] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 22:22:44] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 1234
+[2024-02-27 22:22:44] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 22:22:44] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 3456
+[2024-02-27 22:22:44] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 22:22:44] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 6789
+[2024-02-27 22:22:44] [ INFO ] [OdontologoIDAOH2:50] Listando todos los odontólogos desde H2
+[2024-02-27 22:22:45] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Catalina Tempra
+[2024-02-27 22:22:45] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Diego Gimenez
+[2024-02-27 22:22:45] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Vanina Godoy
+[2024-02-27 22:22:45] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Catalina Tempra
+[2024-02-27 22:22:45] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Diego Gimenez
+[2024-02-27 22:22:45] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Vanina Godoy
+[2024-02-27 22:22:45] [ INFO ] [OdontologoIDAOH2:80] Lista de odontólogos[Odontologo{numeroMatricula=1234, nombre='Catalina', apellido='Tempra'}, Odontologo{numeroMatricula=3456, nombre='Diego', apellido='Gimenez'}, Odontologo{numeroMatricula=6789, nombre='Vanina', apellido='Godoy'}, Odontologo{numeroMatricula=1234, nombre='Catalina', apellido='Tempra'}, Odontologo{numeroMatricula=3456, nombre='Diego', apellido='Gimenez'}, Odontologo{numeroMatricula=6789, nombre='Vanina', apellido='Godoy'}]
+[2024-02-27 22:23:47] [ INFO ] [OdontologosTest:21] Inicializando el caso de prueba Inserción H2
+[2024-02-27 22:23:47] [ INFO ] [OdontologosTest:26] Prueba H2
+[2024-02-27 22:23:47] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 22:23:47] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 1234
+[2024-02-27 22:23:47] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 22:23:47] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 3456
+[2024-02-27 22:23:47] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 22:23:47] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 6789
+[2024-02-27 22:23:47] [ INFO ] [OdontologoIDAOH2:50] Listando todos los odontólogos desde H2
+[2024-02-27 22:23:47] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Catalina Tempra
+[2024-02-27 22:23:47] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Diego Gimenez
+[2024-02-27 22:23:47] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Vanina Godoy
+[2024-02-27 22:23:47] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Catalina Tempra
+[2024-02-27 22:23:47] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Diego Gimenez
+[2024-02-27 22:23:47] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Vanina Godoy
+[2024-02-27 22:23:47] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Catalina Tempra
+[2024-02-27 22:23:47] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Diego Gimenez
+[2024-02-27 22:23:47] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Vanina Godoy
+[2024-02-27 22:23:47] [ INFO ] [OdontologoIDAOH2:80] Lista de odontólogos[Odontologo{numeroMatricula=1234, nombre='Catalina', apellido='Tempra'}, Odontologo{numeroMatricula=3456, nombre='Diego', apellido='Gimenez'}, Odontologo{numeroMatricula=6789, nombre='Vanina', apellido='Godoy'}, Odontologo{numeroMatricula=1234, nombre='Catalina', apellido='Tempra'}, Odontologo{numeroMatricula=3456, nombre='Diego', apellido='Gimenez'}, Odontologo{numeroMatricula=6789, nombre='Vanina', apellido='Godoy'}, Odontologo{numeroMatricula=1234, nombre='Catalina', apellido='Tempra'}, Odontologo{numeroMatricula=3456, nombre='Diego', apellido='Gimenez'}, Odontologo{numeroMatricula=6789, nombre='Vanina', apellido='Godoy'}]
+[2024-02-27 22:26:30] [ INFO ] [OdontologosTest:21] Inicializando el caso de prueba Inserción H2
+[2024-02-27 22:26:30] [ INFO ] [OdontologosTest:26] Prueba H2
+[2024-02-27 22:26:30] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 22:26:30] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 1234
+[2024-02-27 22:26:30] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 22:26:30] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 3456
+[2024-02-27 22:26:30] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 22:26:30] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 6789
+[2024-02-27 22:26:30] [ INFO ] [OdontologoIDAOH2:50] Listando todos los odontólogos desde H2
+[2024-02-27 22:26:30] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Catalina Tempra
+[2024-02-27 22:26:30] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Diego Gimenez
+[2024-02-27 22:26:30] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Vanina Godoy
+[2024-02-27 22:26:30] [ INFO ] [OdontologoIDAOH2:80] Lista de odontólogos[Odontologo{numeroMatricula=1234, nombre='Catalina', apellido='Tempra'}, Odontologo{numeroMatricula=3456, nombre='Diego', apellido='Gimenez'}, Odontologo{numeroMatricula=6789, nombre='Vanina', apellido='Godoy'}]
+[2024-02-27 22:28:22] [ INFO ] [OdontologosTest:21] Inicializando el caso de prueba Inserción H2
+[2024-02-27 22:28:22] [ INFO ] [OdontologosTest:26] Prueba H2
+[2024-02-27 22:28:22] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 22:28:22] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 1234
+[2024-02-27 22:28:22] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 22:28:22] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 3456
+[2024-02-27 22:28:22] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 22:28:22] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 6789
+[2024-02-27 22:28:22] [ INFO ] [OdontologoIDAOH2:50] Listando todos los odontólogos desde H2
+[2024-02-27 22:28:22] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Catalina Tempra
+[2024-02-27 22:28:22] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Diego Gimenez
+[2024-02-27 22:28:22] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Vanina Godoy
+[2024-02-27 22:28:22] [ INFO ] [OdontologoIDAOH2:80] Lista de odontólogos[Odontologo{numeroMatricula=1234, nombre='Catalina', apellido='Tempra'}, Odontologo{numeroMatricula=3456, nombre='Diego', apellido='Gimenez'}, Odontologo{numeroMatricula=6789, nombre='Vanina', apellido='Godoy'}]
+[2024-02-27 22:29:01] [ INFO ] [OdontologosTest:21] Inicializando el caso de prueba Inserción H2
+[2024-02-27 22:29:01] [ INFO ] [OdontologosTest:26] Prueba H2
+[2024-02-27 22:29:01] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 22:29:01] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 1234
+[2024-02-27 22:29:01] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 22:29:01] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 3456
+[2024-02-27 22:29:01] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 22:29:01] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 6789
+[2024-02-27 22:29:01] [ INFO ] [OdontologoIDAOH2:50] Listando todos los odontólogos desde H2
+[2024-02-27 22:29:01] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Catalina Tempra
+[2024-02-27 22:29:01] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Diego Gimenez
+[2024-02-27 22:29:01] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Vanina Godoy
+[2024-02-27 22:29:01] [ INFO ] [OdontologoIDAOH2:80] Lista de odontólogos[Odontologo{numeroMatricula=1234, nombre='Catalina', apellido='Tempra'}, Odontologo{numeroMatricula=3456, nombre='Diego', apellido='Gimenez'}, Odontologo{numeroMatricula=6789, nombre='Vanina', apellido='Godoy'}]
+[2024-02-27 22:29:09] [ INFO ] [OdontologosTest:39] Inicializando el caso de prueba Inserción memoria
+[2024-02-27 22:29:09] [ INFO ] [OdontologosTest:44] Prueba Memoria
+[2024-02-27 22:29:09] [ INFO ] [OdontologoIDAOCollection:16] Estamos guardando un odontólogo en memoria
+[2024-02-27 22:29:09] [ INFO ] [OdontologoIDAOCollection:16] Estamos guardando un odontólogo en memoria
+[2024-02-27 22:29:09] [ INFO ] [OdontologoIDAOCollection:16] Estamos guardando un odontólogo en memoria
+[2024-02-27 22:29:09] [ INFO ] [OdontologoIDAOCollection:23] Listando todos los odontólogos desde memoria
