@@ -174,3 +174,22 @@
 [2024-02-27 22:29:09] [ INFO ] [OdontologoIDAOCollection:16] Estamos guardando un odontólogo en memoria
 [2024-02-27 22:29:09] [ INFO ] [OdontologoIDAOCollection:16] Estamos guardando un odontólogo en memoria
 [2024-02-27 22:29:09] [ INFO ] [OdontologoIDAOCollection:23] Listando todos los odontólogos desde memoria
+[2024-02-27 22:44:13] [ INFO ] [OdontologosTest:21] Inicializando el caso de prueba Inserción H2
+[2024-02-27 22:44:13] [ INFO ] [OdontologosTest:26] Prueba H2
+[2024-02-27 22:44:13] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 22:44:13] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 1234
+[2024-02-27 22:44:13] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 22:44:13] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 3456
+[2024-02-27 22:44:13] [ INFO ] [OdontologoIDAOH2:22] Estamos guardando un odontólogo en H2
+[2024-02-27 22:44:13] [ INFO ] [OdontologoIDAOH2:44] Odontologo guardado correctamente con matrícula número 6789
+[2024-02-27 22:44:13] [ INFO ] [OdontologoIDAOH2:50] Listando todos los odontólogos desde H2
+[2024-02-27 22:44:13] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Catalina Tempra
+[2024-02-27 22:44:13] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Diego Gimenez
+[2024-02-27 22:44:13] [ INFO ] [OdontologoIDAOH2:67] Agregamos al listado de odontólogos al odontólogo Vanina Godoy
+[2024-02-27 22:44:13] [ INFO ] [OdontologoIDAOH2:80] Lista de odontólogos[Odontologo{numeroMatricula=1234, nombre='Catalina', apellido='Tempra'}, Odontologo{numeroMatricula=3456, nombre='Diego', apellido='Gimenez'}, Odontologo{numeroMatricula=6789, nombre='Vanina', apellido='Godoy'}]
+[2024-02-27 22:44:22] [ INFO ] [OdontologosTest:39] Inicializando el caso de prueba Inserción memoria
+[2024-02-27 22:44:22] [ INFO ] [OdontologosTest:44] Prueba Memoria
+[2024-02-27 22:44:22] [ INFO ] [OdontologoIDAOCollection:16] Estamos guardando un odontólogo en memoria
+[2024-02-27 22:44:22] [ INFO ] [OdontologoIDAOCollection:16] Estamos guardando un odontólogo en memoria
+[2024-02-27 22:44:22] [ INFO ] [OdontologoIDAOCollection:16] Estamos guardando un odontólogo en memoria
+[2024-02-27 22:44:22] [ INFO ] [OdontologoIDAOCollection:23] Listando todos los odontólogos desde memoria

@@ -1,5 +1,8 @@
 package dao;
 
+import dao.implementation.OdontologoIDAOH2;
+import org.apache.log4j.Logger;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.sql.Connection;
@@ -8,6 +11,8 @@ import java.sql.Statement;
 import java.util.Scanner;
 
 public class BD {
+
+    private static final Logger LOGGER = Logger.getLogger(BD.class);
     private static final String SQL_TABLE_CREATE = readSQLFile();
 
 
@@ -50,7 +55,7 @@ public class BD {
             }
             myReader.close();
         } catch (FileNotFoundException e) {
-            System.out.println("An error occurred.");
+            LOGGER.error("Ha ocurrido un error en la lectura del archivo SQL", e);
             e.printStackTrace();
         }
 
